@@ -1,12 +1,23 @@
-## Hi there 👋
+# Team Akar Tuli IT👋
 
-<!--
+Welcome to Team Dev Student Deaf!
 
-**Here are some ideas to get you started:**
+## 🌟 About Us
+We are a team interested in technology, software development, and digital accessibility.
+## 🎯 Our Mission
+To develop inclusive digital solutions that are accessible and useful for everyone.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 💻 What We Do
+- 🌐 Website Development
+- 🎨 UI/UX Design
+- ♿ Digital Accessibility
+- 🤝 Collaborative Projects
+
+## 🛠️ Technologies
+HTML · CSS · JavaScript · Git · GitHub
+
+## 🚀 Our Projects
+Explore our repositories to discover our projects and contributions.
+
+---
+Building technology for everyone. 💙
